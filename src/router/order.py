@@ -3,3 +3,6 @@ def fun():
 
 def fun2 ():
 return fun()
+
+def fun3():
+return
