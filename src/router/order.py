@@ -6,3 +6,5 @@ return fun()
 
 def fun3():
 return
+
+def fun+
